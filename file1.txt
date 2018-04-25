@@ -1,3 +1,4 @@
 Hello world!
 This is git.
 One more line of code.
+Line added from master directly.
